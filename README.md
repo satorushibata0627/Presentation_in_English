@@ -7,4 +7,4 @@
 1. Task: Presentation in English
 
 - Author: [Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b/)
-- [Email](satorushibatad4dr@gmail.com)
+- Email: satorushibatad4dr@gmail.com
